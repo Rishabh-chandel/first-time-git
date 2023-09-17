@@ -1,2 +1,4 @@
 # first-time-git
-first git repo
+first git repo.
+author- rishabh chandel
+
